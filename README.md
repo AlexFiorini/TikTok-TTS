@@ -3,7 +3,7 @@
 How to execute the file:
 
 1) Select the voice that you prefer and put it in Execute.bat, replacing **VOICE**
-2) Get your sessionid from TikTok.<br/>
+2) Get your sessionid from TikTok:<br/>
 - Go to https://www.tiktok.com/<br/>
 - Open Developer Tools (F12)<br/>
 - Go to **Application**<br/>
