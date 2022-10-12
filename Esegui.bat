@@ -1,1 +1,0 @@
-py TTS.py -v en_male_narration -f Testo.txt --session fd8e57bd2ee80d39333d50625557ba68
